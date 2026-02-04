@@ -14,23 +14,23 @@ A comprehensive collection of **476 programs** across **17 programming languages
 
 | Language | Repository | Programs | Status |
 |----------|-----------|----------|--------|
-| 🐍 Python | [Python-Portfolio](https://github.com/YOUR_USERNAME/Python-Portfolio) | 24 | ✅ |
-| ⚡ JavaScript | [JavaScript-Portfolio](https://github.com/YOUR_USERNAME/JavaScript-Portfolio) | 24 | ✅ |
-| ☕ Java | [Java-Portfolio](https://github.com/YOUR_USERNAME/Java-Portfolio) | 24 | ✅ |
-| ⚙️ C/C++ | [C-CPP-Portfolio](https://github.com/YOUR_USERNAME/C-CPP-Portfolio) | 24 | ✅ |
-| 🐹 Go | [Go-Portfolio](https://github.com/YOUR_USERNAME/Go-Portfolio) | 24 | ✅ |
-| 🦀 Rust | [Rust-Portfolio](https://github.com/YOUR_USERNAME/Rust-Portfolio) | 24 | ✅ |
-| 🔷 C# | [CSharp-Portfolio](https://github.com/YOUR_USERNAME/CSharp-Portfolio) | 24 | ✅ |
-| 🐘 PHP | [PHP-Portfolio](https://github.com/YOUR_USERNAME/PHP-Portfolio) | 24 | ✅ |
-| 💎 Ruby | [Ruby-Portfolio](https://github.com/YOUR_USERNAME/Ruby-Portfolio) | 24 | ✅ |
-| 💧 Elixir | [Elixir-Portfolio](https://github.com/YOUR_USERNAME/Elixir-Portfolio) | 24 | ✅ |
-| λ Haskell | [Haskell-Portfolio](https://github.com/YOUR_USERNAME/Haskell-Portfolio) | 24 | ✅ |
-| 🅺 Kotlin | [Kotlin-Portfolio](https://github.com/YOUR_USERNAME/Kotlin-Portfolio) | 24 | ✅ |
-| 🌙 Lua | [Lua-Portfolio](https://github.com/YOUR_USERNAME/Lua-Portfolio) | 24 | ✅ |
-| 🔴 Scala | [Scala-Portfolio](https://github.com/YOUR_USERNAME/Scala-Portfolio) | 24 | ✅ |
-| 🍎 Swift | [Swift-Portfolio](https://github.com/YOUR_USERNAME/Swift-Portfolio) | 24 | ✅ |
-| ⚡ Zig | [Zig-Portfolio](https://github.com/YOUR_USERNAME/Zig-Portfolio) | 24 | ✅ |
-| 📦 Misc | [Misc-Portfolio](https://github.com/YOUR_USERNAME/Misc-Portfolio) | Various | ✅ |
+| 🐍 Python | [Python-Portfolio](https://github.com/MatthewPChapdelaine/Python-Portfolio) | 24 | ✅ |
+| ⚡ JavaScript | [JavaScript-Portfolio](https://github.com/MatthewPChapdelaine/JavaScript-Portfolio) | 24 | ✅ |
+| ☕ Java | [Java-Portfolio](https://github.com/MatthewPChapdelaine/Java-Portfolio) | 24 | ✅ |
+| ⚙️ C/C++ | [C-CPP-Portfolio](https://github.com/MatthewPChapdelaine/C-CPP-Portfolio) | 24 | ✅ |
+| 🐹 Go | [Go-Portfolio](https://github.com/MatthewPChapdelaine/Go-Portfolio) | 24 | ✅ |
+| 🦀 Rust | [Rust-Portfolio](https://github.com/MatthewPChapdelaine/Rust-Portfolio) | 24 | ✅ |
+| 🔷 C# | [CSharp-Portfolio](https://github.com/MatthewPChapdelaine/CSharp-Portfolio) | 24 | ✅ |
+| 🐘 PHP | [PHP-Portfolio](https://github.com/MatthewPChapdelaine/PHP-Portfolio) | 24 | ✅ |
+| 💎 Ruby | [Ruby-Portfolio](https://github.com/MatthewPChapdelaine/Ruby-Portfolio) | 24 | ✅ |
+| 💧 Elixir | [Elixir-Portfolio](https://github.com/MatthewPChapdelaine/Elixir-Portfolio) | 24 | ✅ |
+| λ Haskell | [Haskell-Portfolio](https://github.com/MatthewPChapdelaine/Haskell-Portfolio) | 24 | ✅ |
+| 🅺 Kotlin | [Kotlin-Portfolio](https://github.com/MatthewPChapdelaine/Kotlin-Portfolio) | 24 | ✅ |
+| 🌙 Lua | [Lua-Portfolio](https://github.com/MatthewPChapdelaine/Lua-Portfolio) | 24 | ✅ |
+| 🔴 Scala | [Scala-Portfolio](https://github.com/MatthewPChapdelaine/Scala-Portfolio) | 24 | ✅ |
+| 🍎 Swift | [Swift-Portfolio](https://github.com/MatthewPChapdelaine/Swift-Portfolio) | 24 | ✅ |
+| ⚡ Zig | [Zig-Portfolio](https://github.com/MatthewPChapdelaine/Zig-Portfolio) | 24 | ✅ |
+| 📦 Misc | [Misc-Portfolio](https://github.com/MatthewPChapdelaine/Misc-Portfolio) | Various | ✅ |
 
 ---
 
@@ -114,7 +114,7 @@ Production-ready project scaffolding for each language
 
 ```bash
 # Clone any language repository
-git clone https://github.com/YOUR_USERNAME/Python-Portfolio.git
+git clone https://github.com/MatthewPChapdelaine/Python-Portfolio.git
 cd Python-Portfolio
 
 # Browse programs by skill level

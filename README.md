@@ -38,7 +38,7 @@ A comprehensive collection of **476 programs** across **17 programming languages
 
 Download the complete portfolio including all build artifacts:
 
-### 📥 [Internet Archive - Programming Portfolio Complete](https://archive.org/details/programming-portfolio-complete)
+### 📥 [Internet Archive - Programming Portfolio Complete](https://archive.org/details/programming-portfolio-476-programs-in-17-languages-public-domain)
 
 **What's included in the archive:**
 - ✅ All source code from all 17 languages
